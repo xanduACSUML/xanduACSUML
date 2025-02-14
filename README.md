@@ -7,6 +7,7 @@ Currently, I'm working on 4 primary projects as of this commit:
   3. Web development for my student governments website.
   4. Blogging my interests and minor projects both for the public to see and to save on space in my memory!
 
+Oh and I would like to dearly thank Andrew Tian, I couldn't have done any of this without him and his brilliance, I hope one day he reads this with pride. 
 <!--
 **xanduACSUML/xanduACSUML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
